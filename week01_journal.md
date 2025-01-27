@@ -5,11 +5,13 @@
     - [The subject wiki](https://github.com/CP3402/subject/wiki)
 - Tried to grasp unfamiliar technologies (docker, vagrant, wordpress).
     - [GPT conversation](https://chatgpt.com/share/67959f2b-0f74-8012-93f1-18f66bcdde6d)
+    - [Vagrant 101 - Youtube](https://www.youtube.com/watch?v=a6W1hF9CgDQ)
+    - [Vagrant tutorial](https://developer.hashicorp.com/vagrant/tutorials/getting-started?product_intent=vagrant)
 - Watched videos about WordPress.
     - [Difference between Wordpress .org and .com - Youtube](https://www.youtube.com/watch?v=kD_Db3TCno0&t=290s)
 
 ## Estimated hours
-2 hours
+~ 4 hours
 
 ## Content insights
 - I think **Docker** should be a core technology to be used when creating software for these reasons:
