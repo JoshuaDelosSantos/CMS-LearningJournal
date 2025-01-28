@@ -11,7 +11,7 @@
     - [Difference between Wordpress .org and .com - Youtube](https://www.youtube.com/watch?v=kD_Db3TCno0&t=290s)
 
 ## Estimated hours
-~ 4 hours
+~ 5 hours
 
 ## Content insights
 - I think **Docker** should be a core technology to be used when creating software for these reasons:
