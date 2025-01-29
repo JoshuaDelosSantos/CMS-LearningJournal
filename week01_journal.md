@@ -17,17 +17,17 @@
 - I think **Docker** should be a core technology to be used when creating software for these reasons:
     - Theoretically enables our app to work the same on any modern machine.
     - Allows us to isolate our app in its own environment.
-    - Scalability, able run multiple copies of the app. 
+    - Scalability, able run to multiple copies of the app, making it ideal for handling increased user traffic.
 - I don't think I will be using **WordPress** outside of university for these reasons:
-    - I believe as a beginner, it is necessary to learn the low level details (such as manually setting up auth, payment etc.)
-    - Whilst its more efficient to use a CMS such as WordPress, I find it more fun and I am able to learn more from creating websites/software from scratch.
+    - As a beginner, I think it's crucial to understand the fundamentals of web development, such as manually setting up authentication and payments, before relying on CMS solutions like WordPress.
+    - While CMS platforms like WordPress streamline development, I find that building websites from scratch offers a deeper learning experience and a greater sense of accomplishment.
 - Similar to Docker, I think it would be wise to learn about **Vagrant** for these reasons:
     - I think Vagrant would be useful in creating development environments that mimic production.
     - I think Vagrant is a key component to this subject that will allow us to test our website in a production like environment.
     - I read something about provisioners, which allows us to write bash scripts that can automate environment setup (such as downloading Nginx).
 
 ## Career/Employability/Learning insights
-To be employable and to not be obselete within the next few years due to AI, I think it would be imperative to learn about the 'harder'/'less fun' parts of the tech world such as DevOps. As these are the type of work that might be replaced the longest, compared to front-end, back-end and database engineering.
+Since AI is advancing rapidly, I believe DevOps skills will remain valuable longer than front-end, back-end, and database engineering, making them a crucial area to explore for job security.
 
 Within the first week of this subject, it has become clear to me that I know less than what I don't know. This feeling can be compared to the observable universe in contrast to the theories of the unobservable universe.  I was only introduced to these technologies thanks to this subject.
 
