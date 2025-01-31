@@ -9,9 +9,10 @@
     - [Difference between Wordpress .org and .com - Youtube](https://www.youtube.com/watch?v=kD_Db3TCno0&t=290s)
     - [Vagrant tutorial - HashiCorp](https://developer.hashicorp.com/vagrant/tutorials)
     - [Vagrant course - LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=2223545&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-vagrant%3Ftrk%3Dshare_ent_url%26shareId%3DNDR0NdkoRvS6BQqNBDfe6g%253D%253D)
+    - [WordPress essentials course - LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=2223545&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fwordpress-essential-training-24651128%3Ftrk%3Dshare_ent_url%26shareId%3D4SB6H0rPR%252FOQ1w6gDfw1TA%253D%253D)
     
 ## Estimated hours
-~ 5 hours
+~ 7 hours
 
 ## Content insights
 - I think **Docker** should be a core technology to be used when creating software for these reasons:
