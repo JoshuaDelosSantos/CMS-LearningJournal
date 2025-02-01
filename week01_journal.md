@@ -34,3 +34,5 @@ Since AI is advancing rapidly, I believe DevOps skills will remain valuable long
 Within the first week of this subject, it has become clear to me that I know less than what I don't know. This feeling can be compared to the observable universe in contrast to the theories of the unobservable universe. I was only introduced to these technologies thanks to this subject.
 
 I prefer the learning method of this subject compared to a more 'traditional' lecture video based content as this type of learning stimulates hunger for information.
+
+I believe that being confident with this type of learning will greatly benefit me in my future career in tech, as this type of learning promotes adaptability for me. For example, in the fast-paced tech industry, new frameworks, languages, and tools are constantly emerging. Instead of relying solely on structured tutorials, this learning approach encourages me to seek out information, experiment, and troubleshoot issues independently, skills that are essential for staying relevant in a rapidly evolving field.
