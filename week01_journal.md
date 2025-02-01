@@ -7,12 +7,13 @@
     - [GPT conversation](https://chatgpt.com/share/67959f2b-0f74-8012-93f1-18f66bcdde6d)
     - [Vagrant 101 - Youtube](https://www.youtube.com/watch?v=a6W1hF9CgDQ)
     - [Difference between Wordpress .org and .com - Youtube](https://www.youtube.com/watch?v=kD_Db3TCno0&t=290s)
-    - [Vagrant tutorial - HashiCorp](https://developer.hashicorp.com/vagrant/tutorials)
-    - [Vagrant course - LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=2223545&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-vagrant%3Ftrk%3Dshare_ent_url%26shareId%3DNDR0NdkoRvS6BQqNBDfe6g%253D%253D)
     - [WordPress essentials course - LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=2223545&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fwordpress-essential-training-24651128%3Ftrk%3Dshare_ent_url%26shareId%3D4SB6H0rPR%252FOQ1w6gDfw1TA%253D%253D)
-    
+    - [WordPress Workflows - LinkedIn Learning](https://www.linkedin.com/learning/wordpress-workflows-2015/welcome?u=2223545)
+    - [Vagrant tutorial - HashiCorp](https://developer.hashicorp.com/vagrant/tutorials)
+    - [Vagrant course (still watching...) - LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=2223545&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-vagrant%3Ftrk%3Dshare_ent_url%26shareId%3DNDR0NdkoRvS6BQqNBDfe6g%253D%253D)
+
 ## Estimated hours
-~ 7 hours
+~ 9 hours
 
 ## Content insights
 - I think **Docker** should be a core technology to be used when creating software for these reasons:
@@ -30,6 +31,6 @@
 ## Career/Employability/Learning insights
 Since AI is advancing rapidly, I believe DevOps skills will remain valuable longer than front-end, back-end, and database engineering, making them a crucial area to explore for job security.
 
-Within the first week of this subject, it has become clear to me that I know less than what I don't know. This feeling can be compared to the observable universe in contrast to the theories of the unobservable universe.  I was only introduced to these technologies thanks to this subject.
+Within the first week of this subject, it has become clear to me that I know less than what I don't know. This feeling can be compared to the observable universe in contrast to the theories of the unobservable universe. I was only introduced to these technologies thanks to this subject.
 
-I prefer the learning method of this subject compared to a more 'traditional' lecture video based content as this type of learning simulates the feeling of entrepreneurship for me, which makes it more fun and engaging.
+I prefer the learning method of this subject compared to a more 'traditional' lecture video based content as this type of learning stimulates hunger for information.
