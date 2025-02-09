@@ -24,7 +24,7 @@
     - I don't know what I don't know, Therefore, I think the best way to go about this is to talk to the experts.
 - Employability:
     - Learning about Kubernetes and its complexity reinforced my awareness of how much there is still to learn in technology. It made me question why I had only encountered this technology now.
-    - I belive exposure to industry standards (both software and practices) before graduating is highly beneficial. With this knowledge, I feel I have an advantage over my non-CMS peers—assuming we have similar levels of experience and expertise.
+    - I belive exposure to industry standards (both software and practices) before graduating is highly beneficial. With this knowledge, I feel I have an advantage over my non-CMS peers—assuming we have similar levels of experience, expertise and goals.
 - Learning Insights:
     - I may have overlearned in Week 1. I completed two WordPress courses without applying the knowledge in practical development.
     - While these courses satisfied my curiosity, I didn’t reinforce my learning through hands-on practice. As a result, I have forgotten much of the content and will likely need to revisit it when working on WordPress-related tasks.
