@@ -13,7 +13,7 @@
     - Running the docker image creates the docker container (containers allows consistensy across different environments).
     - We are able to define multi-container applications with docker-compose.
     - Other people have experimented working with docker in different languages/frameworks and resources are available online (docker hub).
-    - Kubernetes is the industry standard for managing a cluster of conatiners.
+    - Kubernetes is the industry standard for managing a cluster of containers.
 
 ## Career/Employability/Learning Insights
 - Career:
