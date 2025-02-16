@@ -17,7 +17,7 @@
 
 - Docker vs Vagrant for local development:
     - After comparing the learn jcu vagrant tutorial to [local WordPress setup - Youtube](https://www.youtube.com/watch?v=gEceSAJI_3s) I became more interested in Docker!
-    - [ChatGPT](https://chatgpt.com/share/67ac3110-af44-8012-93d6-6901f6158b13) also confirmed my interest.
+    - [This ChatGPT conversation](https://chatgpt.com/share/67ac3110-af44-8012-93d6-6901f6158b13) also confirmed my interest by comparing and contrasting Docker and Vagrant.
     - Docker seems easier to use, only having to set up a docker-compose.yml file which will have all of the necessary images (db, php and wordpress server).
     - There might be a day where Vagrant would be the better local environment.
     - I will try and update this journal when that day comes. 
