@@ -27,13 +27,15 @@
         - Failed pods are removed from the load balancer automatically.
 
 ### WordPress:
-- If WordPress is a mobile phone, **plugins** are the applications.
+- If WordPress is a mobile phone then **plugins** are the applications.
 
 ## Career/Employability/Learning Insights
 
-
 ### Career:
+- No meaningful career insights this week.
 
 ### Employability:
+- No meaningful employability insights this week.
 
 ### Learning Insights:
+- No meaningful learning insights this week.
