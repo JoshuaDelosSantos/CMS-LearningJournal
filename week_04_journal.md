@@ -15,8 +15,8 @@
 - Worker Nodes: Run application workloads in containers.
 - Kubelet: An agent running on each node that communicates with the control plane.
 - Atleast 2 servers are needed when deploying with Kubernetes.
-    - 1 for the master server and the others are called nodes.
-- Kubernetes automates many aspects of traffic distribution, making it easier, scalable, and more reliable compared to setting up load balancing manually.
+    - 1 for the master server and one for a node.
+- Kubernetes can automate many aspects of traffic distribution, theoretically making it easier, scalable, and more reliable compared to setting up load balancing manually.
     - For example, without Kubernetes: 
         - You need to setup a load balancer manually.
         - You must manually configure and update backend servers (IP addresses of running services).
