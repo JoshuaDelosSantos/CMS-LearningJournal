@@ -9,18 +9,31 @@
 ~ 3 hours
 
 ## Content Insights
+
 ### WordPress Child Themes 👶:
-- A child theme is a theme that inherits the functionality and styling of a parent theme, allowing for safe modifications.
+- A child theme is a theme that **inherits** the functionality and styling of a parent theme, allowing for safe modifications.
 - A child theme consists of at least 2️⃣ files:
     - style.css (for overriding styles)
     - functions.php (for adding custom functions)
 
+### WordPress Hook Functions 🪝:
+- Hooks allow developers to modify or extend WordPress functionality without changing core files.
+- Hooks are categorised in **two main types**:
+    - Actions 🎬 – Execute functions at specific points (e.g., when a post is published).
+    - Filters 🎨 – Modify data before it is displayed or saved (e.g., changing content before output).
 
 ## Career/Employability/Learning Insights
 
 ### Career:
+- Freelancing 🌍 - WordPress development, especially using hooks and child themes, could be a potential career path.
+    - Working on a beach in Southeast Asia does not sound bad at all 🏝️.
+- Entrepreneurship 🚀 - Building and selling premium child themes or plugins on marketplaces like ThemeForest or CodeCanyon could also be another career path.
+    - With enough users, I could launch my own brand and even create my own marketplace using WordPress!
 
 ### Employability:
+- Building projects that showcase hooks, filters, and child themes might can potentially strengthen my resume and GitHub profile.
+    - A strong portfolio means potential employers can see my skills in action instead of just relying on my interview pitch.
 
 ### Learning Insights:
-
+- WordPress is deeper than I expected!
+    - Initially, I saw WordPress as just a tool for building websites, but now I realize it’s a powerful development platform with extensibility through hooks and child themes.
