@@ -47,8 +47,11 @@ A WordPress theme consits of essential PHP files that control different aspects 
 ## Career/Employability/Learning Insights
 
 ### Career:
+- I could start as a freelancer, building custom themes for clients, and later move into an agency or create premium themes for sale!
 
 ### Employability:
-
+- Working with PHP, HTML, CSS and JS will potentially improve my full-stack web development skills.
+- Having a WordPress theme project published will be a great addition to my portfolio and my CV.
 
 ### Learning Insights:
+- Learning about creating custom themes has unlocked new interests. It's like unlocking a basic skill in a game, after unlocking a basic skill, we are then presented with a more advanced skill within the skill tree. These 'skills' for me could be: WooCommerce, Headless WordPress with React and Building custom Gutenberg blocks.
