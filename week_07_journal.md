@@ -20,22 +20,26 @@ A WordPress theme consits of essential PHP files that control different aspects 
 - page.php - template for individual pages
 - archive.php - template for category, tag and archives
 
+I believe that understanding these core files is important because they form the foundation of any WordPress theme. Each file serves a specific purpose in the theme architecture, allowing for modular development and separation of concerns. 
+
 ### Template heirarchy for dynamic content:
 - WordPress selects the right template based on heirarchy.
 - For example:
-    - If a usre visits a category page, WordPress checks for these templates in order:
+    - If a user visits a category page, WordPress checks for these templates in order:
         - category-slug.php
         - category-ID.php
         - category.php
         - archive.php
         - index.php
 
+This may allow developers to create both highly specific templates for particular content and general templates as fallbacks. Without this system, we would need to manually determine which template to use for each page request, making theme development much more complex and error-prone.
+
 ### WordPress loop:
 - The loop is how WordPress fetches and displays posts dynamically.
 - This concept is very important for the project and to make sure our theme is reusable.
 
 ### Hooks:
-- Hools allow adding or modifying theme functionality without chaning core files.
+- Hooks allow adding or modifying theme functionality without changing core files.
 - Example:
     ```
     function my_custom_footer_text() {
@@ -43,15 +47,16 @@ A WordPress theme consits of essential PHP files that control different aspects 
     }
     add_action('wp_footer', 'my_custom_footer_text');
     ```
+- Hooks keep my modifications separate and upgrade-safe.
+
 
 ## Career/Employability/Learning Insights
 
 ### Career:
-- I could start as a freelancer, building custom themes for clients, and later move into an agency or create premium themes for sale!
+Enhancing my skills in WordPress theme development opens up opportunities to work as a freelancer or join specialised agencies. Building custom themes also lays the groundwork for developing premium products or contributing to open-source projects.
 
 ### Employability:
-- Working with PHP, HTML, CSS and JS will potentially improve my full-stack web development skills.
-- Having a WordPress theme project published will be a great addition to my portfolio and my CV.
+Completing a WordPress theme project not only strengthens my technical abilities in PHP, HTML, CSS, and JavaScript but also builds a solid portfolio. This demonstration of hands-on experience is a significant asset for future employers looking for well-rounded web development skills.
 
 ### Learning Insights:
-- Learning about creating custom themes has unlocked new interests. It's like unlocking a basic skill in a game, after unlocking a basic skill, we are then presented with a more advanced skill within the skill tree. These 'skills' for me could be: WooCommerce, Headless WordPress with React and Building custom Gutenberg blocks.
+This project has deepened my understanding of modular design and best practices in web development. It has ignited interests in related areas like WooCommerce integration, headless WordPress with React, and custom Gutenberg block development—each representing the next level in my professional skill tree. Like an RPG game!
